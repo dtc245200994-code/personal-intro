@@ -1,0 +1,11 @@
+.intro {
+    max-width: 700px;
+    margin: 50px auto;
+    padding: 30px;
+    background: #f0f8ff;
+    border-radius: 12px;
+}
+
+.intro h1 {
+    color: #2563eb;
+}
